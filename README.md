@@ -1,4 +1,4 @@
 # GitTest
 
-Testing of git Malte edition
+Testing of git Malte's edition
 
